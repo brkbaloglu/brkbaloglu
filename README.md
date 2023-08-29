@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brkbaloglu" alt="brkbaloglu" /></a> </p>
 
-- 🔭 I’m currently working on **web design and web development**
+- 🔭 I’m currently working on **web design, web development and math**
 
-- 🌱 I’m currently learning **React and TailwindCss**
+- 🌱 I’m currently learning **React, TailwindCss**
 
 - 💬 Ask me about **web programming and math**
 
