@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, TailwindCss**
 
-- 💬 Ask me about **web programming and math**
+- 💬 Ask me about **web programming, math**
 
 - 📫 How to reach me **mehmetburakbaloglu@gmail.com**
 
