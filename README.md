@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web design, web development and math**
 
-- 🌱 I’m currently learning **React, TailwindCss**
+- 🌱 I’m currently learning **React and Node.js**
 
 - 💬 Ask me about **web programming and math**
 
