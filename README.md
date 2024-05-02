@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Burak Baloglu</h1>
-<h3 align="center">I'm student at Eskisehir Osmangazi University Math and Computer Science</h3>
+<h3 align="center">I'm a student at Eskisehir Osmangazi University Math and Computer Science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brkbaloglu" alt="brkbaloglu" /></a> </p>
 
